@@ -1,0 +1,15 @@
+{
+    "name": "vue-todo",
+    "version": "1.0.0",
+    "description": "My Bazar List App",
+    "main": "index.js",
+    "scripts": {
+        "deploy": "gh-pages -d dist"
+    },
+    "author": "Taen Ahammed",
+    "license": "MIT",
+    "homepage": "https://github.com/TaenAhammed/vue-todo",
+    "dependencies": {
+        "gh-pages": "^2.0.1"
+    }
+}
